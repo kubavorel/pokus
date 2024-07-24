@@ -2,3 +2,5 @@ toto je první zápis do souboru v lokálním adresáři, teĎ z toho udělám g
 toto je oprava v branch oprava
 toto je změna provedená v main
 ještě něco napíšu v main
+udelam zmenu ve větvi oprava
+oprava
