@@ -1,1 +1,3 @@
 toto je první zápis do souboru v lokálním adresáři, teĎ z toho udělám git repo na lokále.
+toto je oprava v branch oprava
+toto je změna provedená v main
