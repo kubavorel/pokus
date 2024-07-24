@@ -1,1 +1,2 @@
 toto je první zápis do souboru v lokálním adresáři, teĎ z toho udělám git repo na lokále.
+udelam zmenu ve větvi oprava
