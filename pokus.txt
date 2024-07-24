@@ -5,3 +5,4 @@ ještě něco napíšu v main
 udelam zmenu ve větvi oprava
 oprava
 ted sem neco připíšu v GitHubu
+teĎ udělám změnu na lokále
