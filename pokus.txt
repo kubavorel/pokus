@@ -4,3 +4,4 @@ toto je změna provedená v main
 ještě něco napíšu v main
 udelam zmenu ve větvi oprava
 oprava
+ted sem neco připíšu v GitHubu
