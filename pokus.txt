@@ -6,3 +6,4 @@ udelam zmenu ve větvi oprava
 oprava
 ted sem neco připíšu v GitHubu
 teĎ udělám změnu na lokále
+teĎ dělám druhou změnu v GitHub, souběžnou s lokálem
